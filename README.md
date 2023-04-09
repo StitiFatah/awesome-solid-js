@@ -56,7 +56,7 @@
 ### 🗣️ Podcasts
 - [The Deep Dive Episode 4: Reactive frontend frameworks](https://www.youtube.com/watch?v=iyY1lT8-ZDA)
 - [React vs Svelte vs Solid & MicroFrontends | Ryan Carniato](https://show.nikoskatsikanis.com/episodes/ryan-carniato) On the hard choices all companies are facing right now with their websites, especially with the performance
-- [Ryan Carniato on SolidJS](https://runtimepodcast.com/#7)Discussion on some of the similarities and differences between different UI frameworks, and talk about what things SolidJS has taken from react __The Runtime Podcast__
+- [Ryan Carniato on SolidJS](https://www.listennotes.com/da/podcasts/the-runtime/007-ryan-carniato-on-solidjs-yTHkAP5Bvqm/)Discussion on some of the similarities and differences between different UI frameworks, and talk about what things SolidJS has taken from react __The Runtime Podcast__
 - [A Solid option for building UIs](https://overcast.fm/+Id5U6EB5M) __JS Party__
 
 ### 📹 Videos/Screencasts/Twitch
